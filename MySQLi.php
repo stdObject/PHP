@@ -36,7 +36,7 @@
 				return false;
 			}elseif(sizeof($args)==1){
 				return $args[0];
-			}else{
+			}else{ // lol
 				return '';
 			}
 		}
